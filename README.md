@@ -70,3 +70,4 @@ Providing employers or individuals with reports for accountability
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/4001b5fb-4eda-47f3-b340-3772de7de6f2)
